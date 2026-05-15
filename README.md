@@ -30,7 +30,7 @@ The project focuses on building a stable and lightweight CNN pipeline without us
 
 ```bash
 .
-├── artifacts/
+├── models/
 │   └── cnn_model.keras
 ├── notebooks/
 │   └── experimentation.ipynb
